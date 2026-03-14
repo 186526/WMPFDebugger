@@ -12,6 +12,8 @@ This debugger (tweak) exploits Remote Debug feature provided by wechatdevtools a
 
 Version histories:
 
+* 19027 (latest, merge from https://github.com/XKaguya/WMPFDebugger)
+* 18955 
 * 18891 (latest, credit @1357310795)
 * 18787 
 * 18151 (credit @1437649480, @zxjBigPower)
